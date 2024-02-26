@@ -1,0 +1,16 @@
+{
+  "pathsToIds" : {
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/GridMaterial.usda" : "440DE5B4-E4E4-459B-AABF-9ACE96319272",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/procedural_sphere_grid.usda" : "34C460AE-CA1B-4348-BD05-621ACBDFFE97",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Scene.usda" : "0A9B4653-B11E-4D6A-850E-C6FCB621626C",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Untitled Scene.usda" : "03E02005-EFA6-48D6-8A76-05B2822A74E9",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/_GridMaterial.usda" : "6FEDAE82-F4F0-4F3B-9ABC-2B7A68E20E89",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/DraggableTrash.usdz" : "72E123BB-D501-483A-AFAA-FBA6EDB0B477",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/GridMaterial.usda" : "FBD8436F-6B8B-4B82-99B5-995D538B4704",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/procedural_sphere_grid.usda" : "1CBF3893-ABFD-408C-8B91-045BFD257808",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Scene.usda" : "26DBAE76-5DD8-47B6-A085-1B4ADA111097",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/TrashBinOrganic.usda" : "D58FA07A-7DB7-4EF5-938C-DFC48C010E17",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/TrashBinPaper.usda" : "60EFCCB9-7EFE-47A1-BEC7-F79538E0A9FC",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/TrashBinSolid.usda" : "29FFA1D6-4519-4018-AA62-771670E449D3"
+  }
+}
